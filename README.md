@@ -1,4 +1,4 @@
-# Hi there! I'm Frenki 👋
+# Hi there! I'm Frenki
 
 ![Banner](https://github.com/frenkiofficial/banner.png)
 
